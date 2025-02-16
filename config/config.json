@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "library_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "library_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "library_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

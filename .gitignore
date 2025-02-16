@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+build/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite
